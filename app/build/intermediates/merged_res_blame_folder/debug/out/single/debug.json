@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-merged_res-32:\\drawable_bg_spinner.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-main-34:\\drawable\\bg_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-merged_res-32:\\menu_menu_riwayat.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-main-34:\\menu\\menu_riwayat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-merged_res-32:\\drawable_bg_top_login.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-main-34:\\drawable\\bg_top_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-merged_res-32:\\drawable_bg_button_login.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-main-34:\\drawable\\bg_button_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-merged_res-32:\\drawable_bg_logo_circle.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-main-34:\\drawable\\bg_logo_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-merged_res-32:\\drawable_bg_bottom_card.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-main-34:\\drawable\\bg_bottom_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-merged_res-32:\\drawable_bg_gradient_login.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-main-34:\\drawable\\bg_gradient_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-merged_res-32:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-main-34:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-merged_res-32:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-main-34:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-merged_res-32:\\drawable_ic_health_logo.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-main-34:\\drawable\\ic_health_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-merged_res-32:\\layout_activity_riwayat.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-main-34:\\layout\\activity_riwayat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-merged_res-32:\\layout_dialog_detail_pasien.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-main-34:\\layout\\dialog_detail_pasien.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-merged_res-32:\\layout_activity_tambah_pasien.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-main-34:\\layout\\activity_tambah_pasien.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-merged_res-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-merged_res-32:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-main-34:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-merged_res-32:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-main-34:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-merged_res-32:\\drawable_bg_badge_status.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-main-34:\\drawable\\bg_badge_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-merged_res-32:\\drawable_bg_search_view.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-main-34:\\drawable\\bg_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-merged_res-32:\\drawable_bg_nomor_antrian.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-main-34:\\drawable\\bg_nomor_antrian.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-merged_res-32:\\menu_menu_bottom_nav.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-main-34:\\menu\\menu_bottom_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-merged_res-32:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-main-34:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "com.nndndev.antrianklinik.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.nndndev.antrianklinik.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-merged_res-32:\\layout_item_pasien.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-main-34:\\layout\\item_pasien.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-merged_res-32:\\drawable_bg_circle_white_alpha.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-main-34:\\drawable\\bg_circle_white_alpha.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-merged_res-32:\\drawable_bg_input_login.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.nndndev.antrianklinik.app-main-34:\\drawable\\bg_input_login.xml"
+    }
+]

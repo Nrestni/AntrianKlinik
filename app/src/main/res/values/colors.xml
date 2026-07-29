@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Branding -->
+    <color name="colorPrimary">#2563EB</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorPrimaryContainer">#DBEAFE</color>
+    <color name="colorOnPrimaryContainer">#1E40AF</color>
+
+    <!-- Secondary Branding -->
+    <color name="colorSecondary">#22C55E</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    <color name="colorSecondaryContainer">#DCFCE7</color>
+    <color name="colorOnSecondaryContainer">#166534</color>
+
+    <!-- Neutrals & Surfaces -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#111827</color>
+    <color name="surface">#F8FAFC</color>
+    <color name="surfaceVariant">#F1F5F9</color>
+    <color name="onSurface">#1E293B</color>
+    <color name="outline">#E2E8F0</color>
+
+    <!-- Status Colors -->
+    <color name="statusMenunggu">#F59E0B</color>
+    <color name="statusDilayani">#2563EB</color>
+    <color name="statusSelesai">#22C55E</color>
+    <color name="statusDibatalkan">#EF4444</color>
+</resources>

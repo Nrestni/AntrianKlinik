@@ -1,0 +1,40 @@
+<resources>
+    <!-- TODO: Ganti dengan nama klinik sebenarnya -->
+    <string name="app_name">Antrian Klinik</string>
+    <string name="nama_klinik">Klinik Sehat Bersama</string>
+    <string name="tagline">Sistem Antrian Digital</string>
+
+    <!-- Login -->
+    <string name="label_username">Username</string>
+    <string name="label_password">Password</string>
+    <string name="btn_masuk">MASUK</string>
+    <string name="err_username_kosong">Username tidak boleh kosong</string>
+    <string name="err_password_kosong">Password tidak boleh kosong</string>
+    <string name="err_login_gagal">Username atau password salah!</string>
+
+    <!-- Dashboard -->
+    <string name="title_dashboard">Dashboard Antrian</string>
+    <string name="label_antrian_berikutnya">Antrian Berikutnya</string>
+    <string name="label_menunggu">Menunggu</string>
+    <string name="label_antrian_hari_ini">Daftar Antrian Hari Ini</string>
+    <string name="msg_antrian_kosong">Belum ada pasien hari ini</string>
+
+    <!-- Form tambah pasien -->
+    <string name="title_tambah_pasien">Daftarkan Pasien</string>
+    <string name="label_nama">Nama Lengkap</string>
+    <string name="label_umur">Umur (tahun)</string>
+    <string name="label_jenis_kelamin">Jenis Kelamin</string>
+    <string name="label_poli">Tujuan Poli</string>
+    <string name="label_keluhan">Keluhan / Keterangan</string>
+    <string name="btn_daftar">Daftarkan</string>
+    <string name="btn_reset">Reset</string>
+
+    <!-- Riwayat -->
+    <string name="title_riwayat">Riwayat Antrian</string>
+    <string name="msg_riwayat_kosong">Tidak ada data riwayat</string>
+
+    <!-- Konfirmasi -->
+    <string name="konfirmasi_logout">Apakah Anda yakin ingin keluar?</string>
+    <string name="btn_ya">Ya</string>
+    <string name="btn_batal">Batal</string>
+</resources>

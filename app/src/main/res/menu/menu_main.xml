@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Menu Dark Mode -->
+    <item
+        android:id="@+id/action_dark_mode"
+        android:title="Ganti Tema"
+        android:icon="@android:drawable/ic_menu_view"
+        app:showAsAction="ifRoom" />
+
+    <!-- Menu Reset -->
+    <item
+        android:id="@+id/action_reset"
+        android:title="Reset Antrian"
+        app:showAsAction="never" />
+
+    <!-- Menu Logout -->
+    <item
+        android:id="@+id/action_logout"
+        android:title="Logout"
+        android:icon="@android:drawable/ic_lock_power_off"
+        app:showAsAction="never" />
+
+    <!-- TODO: Tambahkan menu lain jika perlu (pengaturan, cetak, dll.) -->
+
+</menu>

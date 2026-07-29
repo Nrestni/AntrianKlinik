@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Background lingkaran untuk nomor antrian di item_pasien.xml -->
+<!-- TODO: Sesuaikan warna dengan tema klinik -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <solid android:color="@color/colorPrimary" />
+</shape>

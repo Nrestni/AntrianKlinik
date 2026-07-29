@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#111827</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnPrimaryContainer">#1E40AF</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    <color name="colorOnSecondaryContainer">#166534</color>
+    <color name="colorPrimary">#2563EB</color>
+    <color name="colorPrimaryContainer">#DBEAFE</color>
+    <color name="colorSecondary">#22C55E</color>
+    <color name="colorSecondaryContainer">#DCFCE7</color>
+    <color name="onSurface">#1E293B</color>
+    <color name="outline">#E2E8F0</color>
+    <color name="statusDibatalkan">#EF4444</color>
+    <color name="statusDilayani">#2563EB</color>
+    <color name="statusMenunggu">#F59E0B</color>
+    <color name="statusSelesai">#22C55E</color>
+    <color name="surface">#F8FAFC</color>
+    <color name="surfaceVariant">#F1F5F9</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Antrian Klinik</string>
+    <string name="btn_batal">Batal</string>
+    <string name="btn_daftar">Daftarkan</string>
+    <string name="btn_masuk">MASUK</string>
+    <string name="btn_reset">Reset</string>
+    <string name="btn_ya">Ya</string>
+    <string name="err_login_gagal">Username atau password salah!</string>
+    <string name="err_password_kosong">Password tidak boleh kosong</string>
+    <string name="err_username_kosong">Username tidak boleh kosong</string>
+    <string name="konfirmasi_logout">Apakah Anda yakin ingin keluar?</string>
+    <string name="label_antrian_berikutnya">Antrian Berikutnya</string>
+    <string name="label_antrian_hari_ini">Daftar Antrian Hari Ini</string>
+    <string name="label_jenis_kelamin">Jenis Kelamin</string>
+    <string name="label_keluhan">Keluhan / Keterangan</string>
+    <string name="label_menunggu">Menunggu</string>
+    <string name="label_nama">Nama Lengkap</string>
+    <string name="label_password">Password</string>
+    <string name="label_poli">Tujuan Poli</string>
+    <string name="label_umur">Umur (tahun)</string>
+    <string name="label_username">Username</string>
+    <string name="msg_antrian_kosong">Belum ada pasien hari ini</string>
+    <string name="msg_riwayat_kosong">Tidak ada data riwayat</string>
+    <string name="nama_klinik">Klinik Sehat Bersama</string>
+    <string name="tagline">Sistem Antrian Digital</string>
+    <string name="title_dashboard">Dashboard Antrian</string>
+    <string name="title_riwayat">Riwayat Antrian</string>
+    <string name="title_tambah_pasien">Daftarkan Pasien</string>
+    <style name="ShapeAppearance.App.Rounded" parent="ShapeAppearance.Material3.MediumComponent">
+        <item name="cornerSize">20dp</item>
+    </style>
+    <style name="TextAppearance.App.ActionBar.Title" parent="TextAppearance.Material3.TitleLarge">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Theme.AntriankKlinik" parent="Theme.Material3.Light">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <item name="colorPrimaryContainer">@color/colorPrimaryContainer</item>
+        <item name="colorOnPrimaryContainer">@color/colorOnPrimaryContainer</item>
+
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorOnSecondary">@color/colorOnSecondary</item>
+        <item name="colorSecondaryContainer">@color/colorSecondaryContainer</item>
+        <item name="colorOnSecondaryContainer">@color/colorOnSecondaryContainer</item>
+
+        <item name="android:navigationBarColor">@color/white</item>
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar" ns1:targetApi="m">true</item>
+        <item name="android:windowBackground">@color/surface</item>
+
+        <item name="windowActionBar">true</item>
+        <item name="windowNoTitle">false</item>
+
+        <item name="actionBarStyle">@style/Widget.App.ActionBar</item>
+    </style>
+    <style name="Theme.AntriankKlinik.NoActionBar" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar" ns1:targetApi="m">true</item>
+    </style>
+    <style name="Widget.App.ActionBar" parent="Widget.Material3.ActionBar.Solid">
+        <item name="background">@color/white</item>
+        <item name="elevation">0dp</item>
+        <item name="titleTextStyle">@style/TextAppearance.App.ActionBar.Title</item>
+    </style>
+    <style name="Widget.App.Button" parent="Widget.Material3.Button">
+        <item name="shapeAppearance">@style/ShapeAppearance.App.Rounded</item>
+    </style>
+    <style name="Widget.App.Card" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardCornerRadius">20dp</item>
+        <item name="cardElevation">2dp</item>
+        <item name="cardBackgroundColor">@color/white</item>
+    </style>
+</resources>

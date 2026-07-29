@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#F8FAFC</color>
+    <color name="colorOnPrimary">#1E3A8A</color>
+    <color name="colorOnPrimaryContainer">#DBEAFE</color>
+    <color name="colorPrimary">#60A5FA</color>
+    <color name="colorPrimaryContainer">#1E40AF</color>
+    <color name="onSurface">#F1F5F9</color>
+    <color name="outline">#334155</color>
+    <color name="surface">#020617</color>
+    <color name="surfaceVariant">#1E293B</color>
+    <color name="white">#0F172A</color>
+    <style name="TextAppearance.App.ActionBar.Title" parent="TextAppearance.Material3.TitleLarge">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Theme.AntriankKlinik" parent="Theme.Material3.Dark">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <item name="colorPrimaryContainer">@color/colorPrimaryContainer</item>
+        <item name="colorOnPrimaryContainer">@color/colorOnPrimaryContainer</item>
+
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorOnSecondary">@color/colorOnSecondary</item>
+
+        <item name="android:navigationBarColor">@color/white</item>
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar" ns1:targetApi="m">false</item>
+        <item name="android:windowBackground">@color/surface</item>
+
+        <item name="windowActionBar">true</item>
+        <item name="windowNoTitle">false</item>
+
+        <item name="actionBarStyle">@style/Widget.App.ActionBar</item>
+    </style>
+    <style name="Widget.App.ActionBar" parent="Widget.Material3.ActionBar.Solid">
+        <item name="background">@color/white</item>
+        <item name="elevation">0dp</item>
+        <item name="titleTextStyle">@style/TextAppearance.App.ActionBar.Title</item>
+    </style>
+</resources>
