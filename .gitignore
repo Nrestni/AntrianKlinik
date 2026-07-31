@@ -1,20 +1,12 @@
-# Gradle files
+
 .gradle/
 build/
 app/build/
-
-# IDE files
 .idea/
 *.iml
-
-# Local configuration
 local.properties
-
-# Build outputs
 *.apk
 *.aab
 *.zip
-
-# Native build
 .externalNativeBuild/
 .cxx/
