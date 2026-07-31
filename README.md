@@ -23,7 +23,12 @@ Aplikasi Android untuk mengelola antrian pasien di klinik secara digital. Aplika
 - SQLite
 - Material Design
 - RecyclerView
+- 
+## 📄 Panduan Penggunaan
 
+Panduan penggunaan aplikasi dapat diakses melalui file berikut:
+
+- [Panduan Penggunaan Antrian Klinik](docs/PanduanPenggunaan_AntrianKlinik.pdf)
 ## Pengembang
 
 **Nenden Restiani**  
